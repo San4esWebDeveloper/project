@@ -17,3 +17,6 @@ def aries(request):
 
 def Taurus(request):
     return HttpResponse("Знак зодиака - телец")
+
+def Gemini(request):
+    return HttpResponse("Знак зодиака - Близнецы")

@@ -23,4 +23,5 @@ urlpatterns = [
     path('horoscope/scorpio/', views.scorpio),
     path('horoscope/aries/', views.aries),
     path('horoscope/Taurus/', views.Taurus),
+    path('horoscope/Gemini/', views.Gemini),
 ]
